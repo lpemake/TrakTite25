@@ -1,0 +1,66 @@
+Espoo;Neste; Kauklahti Mänkimiehentie 3;1.849;1.949;1.837
+Espoo;Neste; Laajalahti Turveradantie 13;1.859;1.969;1.848
+Espoo;Teboil; Leppävaara/Perkkaa Hevosenkenkä 2, Kehä I;1.688;1.788;1.618
+Espoo;ABC; Nihtisilta 4;1.790;1.880;1.789
+Espoo;Shell; Sepänkylä Palomiehentie 2 (E99+);1.755;1.865;1.739
+Espoo;Ysi5; Nihtisilta Kutojankulma 2;1.809;1.909;1.809
+Espoo;ST1; Mankkaantie 2;1.763;1.853;1.657
+Espoo;Neste; Mankkaa Sinikalliontie 1-3, 1-tie;1.763;1.863;1.659
+Espoo;ST1; Leppävaara Hannu Olavinpojantie 3, 110-tie, Kehä I;1.757;1.857;1.646
+Espoo;ST1; Bemböle Bellinmäki 2, 110-tie;1.675;1.775;1.644
+Espoo;Neste; Lommila Espoontie 32;1.675;1.775;1.644
+Espoo;Neste; Lommila Lommilanrinne 1;1.680;1.780;1.651
+Espoo;ABC; Mikkelä Mikkelänkallio 1 (E85 1.363);1.713;1.803;1.709
+Helsinki;Shell; Alppila Itäinen Brahenkatu 2 (E99+);1.874;1.823;1.843
+Helsinki;Neste; Munkkiniemi Huopalahdentie 1;1.879;1.989;1.879
+Helsinki;Neste; Mannerheimintie Reijolankatu 3;1.899;1.823;1.899
+Helsinki;Neste; Eläintarha Nordenskjöldinkatu 22;1.894;2.004;1.864
+Helsinki;Shell; Tullinpuomi Topeliuksenkatu 45 (E99+);1.749;1.859;1.749
+Helsinki;Shell; Lauttasaari Heikkiläntie 12 (E99+);1.894;2.004;1.894
+Helsinki;Neste; Ruoholahti Salmisaarenkatu 2;1.874;1.984;1.869
+Helsinki;ABC; Porttipuisto Tatti 19 (E85 1.369);1.899;1.989;1.899
+Helsinki;Neste; Munkkivuori Ulvilantie 6;1.899;2.009;1.899
+Helsinki;ABC; Kannelmäki Prisma Kantelettarentie 1 (E85 1.779);1.899;1.989;1.853
+Helsinki;Neste; Konala Ristipellontie 11;1.899;2.009;1.899
+Helsinki;ABC; Käpylä Vähänkyröntie 2;1.899;1.989;1.853
+Helsinki;Neste; Malmi Pihlajamäentie 37, Kehä I;1.909;2.019;1.909
+Helsinki;Neste; Kontula Kotikonnuntie 1;1.909;2.019;1.909
+Helsinki;Neste; Kannelmäki Laulukuja 2;1.889;2.009;1.853
+Helsinki;ABC; Tuomarinkylä Yhdyskunnantie 74;1.899;1.999;1.899
+Helsinki;Neste; Mellunmäki Mellunmäenraition ja Kontulantien risteys;1.899;2.009;1.899
+Helsinki;Neste; Konala Malminkartanontie 3;1.899;2.009;1.899
+Helsinki;Neste; Ala-Tikkurila Aamuruskontie 2, Kehä III (E18);1.899;2.009;1.899
+Helsinki;Neste; Suutarila Lyhtytie 26;1.899;2.009;1.899
+Helsinki;Shell; Pukinmäki Ratavallintie 1, Kehä I (E99+);1.899;2.009;1.899
+Helsinki;Shell; Käpylä Vaakalinnuntie 1 - 3, 45-tie (E99+);1.899;2.009;1.899
+Helsinki;Shell; Itäkeskus Visbynkatu 1, Kehä I (E99+);1.899;2.009;1.899
+Helsinki;Shell; Ala-Tikkurila Härkävaljakontie 30 (E85 1.355), Kehä III (E18) (E99+);1.899;2.009;1.899
+Helsinki;ABC; Malminkartano Hankasuontie 1 (E85 1.343);1.899;1.989;1.899
+Helsinki;Neste; Oulunkylä Liukumäentie 2;1.609;1.823;1.877
+Helsinki;Shell; Konala Ristipellontie 18 (E85 1.355) (E99+);1.726;1.826;1.629
+Helsinki;Neste; Hietalahti Hietalahdenranta 6;1.829;1.939;1.809
+Helsinki;Neste; Viikki Viikinportti 1 (Pihlajamäentie 4 );1.629;1.729;1.649
+Helsinki;Shell Express, Etelä-Haaga Vihdintie 21 (Re85 1.348) (E99+);1.629;1.739;1.634
+Helsinki;Neste; Tapaninkylä Kirkonkyläntie 47;1.704;1.814;1.676
+Helsinki;ABC; Malmi Kirkonkyläntie 39;1.707;1.797;1.678
+Helsinki;Neste; Oulunkylä Siltavoudintie 19;1.724;1.834;1.693
+Helsinki;Teboil, Munkkivuori Huopalahdentie 22;1.784;1.894;1.784
+Vantaa;Neste; Keimola Länsi Hämeenlinnanväylä 600, 3-tie;1.884;1.994;1.858
+Vantaa;Neste; Keimola Itä Hämeenlinnanväylä 601, 3-tie;1.904;2.014;1.879
+Vantaa;ST1; Veromies Virkatie 7, Kehä III (E18);1.879;1.969;1.833
+Vantaa;ABC; Prisma Jumbo Vantaanportinkatu 3;1.884;1.974;1.884
+Vantaa;Teboil; Tammisto Valimotie 10;1.894;1.994;1.879
+Vantaa;Neste; Ansakuja 2;1.879;1.989;1.899
+Vantaa;Teboil; Tuupakka Tuupakantie 2, Kehä III (E18);1.879;1.989;1.879
+Vantaa;Neste; Martinlaakso Martinlaaksontie 1;1.635;1.745;1.598
+Vantaa;Neste; Martinlaakso Vihertie 39;1.909;2.019;1.909
+Vantaa;Shell; Kaivoksela Kaivokselantie 1B (E99+);1.899;1.999;1.899
+Vantaa;Neste; Kaivoksela Kaivokselantie 1A;1.899;2.009;1.899
+Vantaa;Teboil; Kaivoksela Vanha Kaarelantie 35;1.667;1.767;1.638
+Vantaa;Neste; Kuninkaanmäki Kankikuja 2;1.609;1.719;1.609
+Vantaa;Shell; Hakkila Vanha Porvoontie;1.619;1.729;1.619
+Vantaa;ABC; Ilola Koivukylänväylä 66;1.652;1.742;1.648
+Vantaa;ST1; Petikko Tiilipojanlenkki 2 (Re85 1.357), Kehä III (E18);1.669;1.759;1.649
+Vantaa;ABC; Petikko Petikontie 29 (E85 1.389), Kehä III (E18);1.699;1.789;1.696
+Vantaa;ST1; Porttipuisto Salpakuja 4;1.625;1.715;1.623
+Vantaa;Neste; Siltamäki Kirkkotie 2;1.649;1.749;1.649
