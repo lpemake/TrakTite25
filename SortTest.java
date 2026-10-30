@@ -60,7 +60,7 @@ public class SortTest {
         long startInsertion = System.nanoTime();
         insertionSort(data);
         long stopInsertion = System.nanoTime();
-        System.out.println("Insertion sort " + (stopInsertion - startInsertion)/1000000000.0);
+        System.out.println("Insertion sort " + (stopInsertion - startInsertion)/1000000000.0);    
 
         // show results
         //printData(data);
