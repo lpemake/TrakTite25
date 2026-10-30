@@ -1,0 +1,68 @@
+import java.util.*;
+
+public class SortTest {
+
+    public static void insertionSort(int[] data) {
+        int n = data.length;
+        for (int i = 1; i < n; ++i) {
+            int key = data[i];
+            int j = i - 1;
+
+            /* Move elements of arr[0..i-1], that are
+               greater than key, to one position ahead
+               of their current position */
+            while (j >= 0 && data[j] > key) {
+                data[j + 1] = data[j];
+                j = j - 1;
+            }
+            data[j + 1] = key;
+        }
+    }
+
+    public static void printData(int[] data) {
+        for (int x : data) {
+            System.out.print(x + " ");
+        }
+        System.out.println("--------------------------");
+        System.out.println();
+    }
+
+    public static int[] createAscendingData(int n) {
+        int[] data = new int[n];
+
+        for (int i = 0; i < data.length; i++) {
+            data[i] = i;
+        }
+
+        return data;
+    }
+
+    public static int[] createRandomData(int n) {
+        int[] data = new int[n];
+
+        Random gen = new Random();
+
+        for (int i = 0; i < data.length; i++) {
+            data[i] = gen.nextInt(n);
+        }
+
+        return data;
+    }
+    public static void main(String[] args) {
+        int size = 100000;
+
+        // create the array
+        int[] data = createRandomData(size);
+        //printData(data);
+
+        // lisää ajan mittaaminen (ota mallia puolitushausta)
+        // sort
+        long startInsertion = System.nanoTime();
+        insertionSort(data);
+        long stopInsertion = System.nanoTime();
+        System.out.println("Insertion sort " + (stopInsertion - startInsertion)/1000000000.0);
+
+        // show results
+        //printData(data);
+    }
+}
