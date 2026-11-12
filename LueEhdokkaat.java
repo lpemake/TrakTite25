@@ -1,5 +1,6 @@
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class LueEhdokkaat {
@@ -26,6 +27,8 @@ public class LueEhdokkaat {
                 // lisätään olio listaan
                 ehdokkaat.add(e);
             }
+
+            Collections.sort(ehdokkaat);
 
             for (Ehdokas ehdokas : ehdokkaat) {
                 System.out.println(ehdokas.toString());

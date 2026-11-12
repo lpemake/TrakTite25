@@ -1,4 +1,4 @@
-public class Ehdokas {
+public class Ehdokas implements Comparable<Ehdokas> {
     private String etunimi;
     private String sukunimi;
     private String puolue;
@@ -16,6 +16,11 @@ public class Ehdokas {
     public String toString() {
         return "Ehdokas [etunimi=" + etunimi + ", sukunimi=" + sukunimi + ", puolue=" + puolue + ", aanimaara="
                 + aanimaara + ", vertailuLuku=" + vertailuLuku + "]";
+    }
+
+    @Override
+    public int compareTo(Ehdokas toinenEhdokas) {
+        return -this.getAanimaara() + toinenEhdokas.getAanimaara();
     }
 
     public void setVertailuLuku(double vertailuLuku) {
